@@ -1,0 +1,2 @@
+# Multidimensional_Information_Expansion_and_Processing_Network_for_Hyperspectral_Image_Classification
+Multidimensional Information Expansion and Processing Network for Hyperspectral Image Classification
